@@ -10,3 +10,6 @@
 - система последовательного выполнения заданий
 - таймер
 - испоьзование системы частиц 
+
+Ссылка на игру:
+https://drive.google.com/drive/folders/1AjfJzJx_JqEW31rAXw1ElW6XVuSXLmni?usp=sharing
